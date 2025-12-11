@@ -1,0 +1,21 @@
+{
+  "name": "frame-master-svg-to-jsx-loader",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.ts",
+  "peerDependencies": {
+    "frame-master": "^3.0.0",
+    "typescript": "^5"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@svgr/plugin-prettier": "^8.1.0",
+    "@svgr/plugin-svgo": "^8.1.0",
+    "@types/react": "^19.2.7",
+    "svgo": "4.0.0"
+  }
+}
