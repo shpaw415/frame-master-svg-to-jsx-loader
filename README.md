@@ -1,6 +1,6 @@
 # frame-master-svg-to-jsx-loader
 
-A [Frame-Master](https://github.com/frame-master) plugin that transforms SVG files into React JSX components at build time and runtime.
+A [Frame-Master](https://frame-master.com) plugin that transforms SVG files into React JSX components at build time and runtime.
 
 ## Installation
 
